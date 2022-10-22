@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_phone-catalog/static/css/main.466a7f2e.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.020abe23.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.020abe23.chunk.js.map",
+    "main.js": "/react_phone-catalog/static/js/main.f97fcae8.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.f97fcae8.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.2f95d667.js",
     "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.2f95d667.js.map",
     "static/js/2.74d5c52d.chunk.js": "/react_phone-catalog/static/js/2.74d5c52d.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2f95d667.js",
     "static/js/2.74d5c52d.chunk.js",
     "static/css/main.466a7f2e.chunk.css",
-    "static/js/main.020abe23.chunk.js"
+    "static/js/main.f97fcae8.chunk.js"
   ]
 }
